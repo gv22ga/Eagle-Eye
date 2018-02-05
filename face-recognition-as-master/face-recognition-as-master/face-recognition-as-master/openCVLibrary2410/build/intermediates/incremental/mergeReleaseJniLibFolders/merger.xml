@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/openCVLibrary2410/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/openCVLibrary2410/src/release/jniLibs"/></dataSet></merger>

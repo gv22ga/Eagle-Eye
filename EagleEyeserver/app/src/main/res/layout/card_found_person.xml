@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp"
+    android:paddingTop="2dp"
+    android:paddingBottom="2dp">
+
+    <LinearLayout
+        android:id="@+id/card_found"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff">
+    <FrameLayout
+        android:layout_marginTop="12dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp">
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/card_view"
+            android:layout_width="50dp"
+            android:layout_margin="5dp"
+            card_view:cardElevation="0dp"
+            android:background="@color/alizarin"
+            card_view:cardBackgroundColor="@color/white"
+            android:layout_height="50dp"
+            card_view:cardCornerRadius="4dp"/>
+
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_width="50dp"
+            android:layout_margin="5dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:src="@drawable/baby"/>
+
+    </FrameLayout>
+    <android.support.v7.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardElevation="0dp"
+        card_view:cardCornerRadius="0dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="4dp"
+            android:orientation="vertical"
+            android:background="@color/white">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="8dp"
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingRight="8dp"
+                    android:gravity="center_vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/tv_name"
+                            android:layout_width="0dp"
+                            android:layout_weight="1"
+                            android:layout_marginTop="6dp"
+                            android:layout_height="wrap_content"
+                            android:text="Missing Person Name"
+                            android:gravity="center_vertical"
+                            android:textSize="22sp"
+                            android:textColor="@color/PrimaryDarkColor"
+                            android:textStyle="bold"
+                            />
+
+                        <TextView
+                            android:textSize="12dp"
+                            android:layout_marginTop="1dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/tv_agesex"
+                            android:text="age,sex"/>
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:paddingTop="5dp"
+                        android:orientation="horizontal"
+                        >
+                    <LinearLayout
+
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="4dp"
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_weight="1">
+                        <TextView
+                            android:id="@+id/tv_address"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="16dp"
+                            android:text="BHU,Varanasi"
+                            android:textColor="@color/transparent_black_percent_80"/>
+                    </LinearLayout>
+                        <TextView
+                            android:id="@+id/tv_range"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:textSize="16dp"
+                            android:text="100 meters "
+                            android:textColor="@color/black"
+                            />
+                        </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:paddingTop="5dp"
+                        >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="16sp"
+                            android:text="Last location: "
+                            android:textColor="@color/black"
+
+                            />
+
+                        <TextView
+                            android:id="@+id/tv_last_location"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical"
+                            android:text="12.3424,45.8724"
+                            android:textSize="16dp"
+                            android:textColor="@color/PrimaryDarkColor"
+                            />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="6dp"
+                >
+                <TextView
+                    android:id="@+id/tv_reporter_contact"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="16dp"
+                    android:textColor="@color/black"
+                    android:text="Contact no.: 8733443234"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+
+
+        <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#4D000000"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"/>
+
+</LinearLayout>

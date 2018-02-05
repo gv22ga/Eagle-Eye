@@ -1,0 +1,4 @@
+#Sun Feb 04 11:52:48 IST 2018
+base.0=/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,1547 @@
+[
+    {
+        "outputFile": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 26,
+                    "endOffset": 77
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 74,
+                        "endColumn": 34,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 82,
+                    "endColumn": 51,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 51,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 79,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 79,
+                        "endOffset": 585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 42,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 42,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 65,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 65,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 48,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 48,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 53,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 727,
+                        "endColumn": 53,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 38,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 590,
+                        "endColumn": 38,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 42,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 42,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 48,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 48,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 51,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 51,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 52,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 52,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 40,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 40,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 51,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 51,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 50,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 50,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 57,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 57,
+                        "endOffset": 69
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 26,
+                    "endOffset": 77
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 74,
+                        "endColumn": 34,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 82,
+                    "endColumn": 51,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 51,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 81,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 81,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 42,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 42,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 65,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 65,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 48,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 48,
+                        "endOffset": 675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 53,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 729,
+                        "endColumn": 53,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 38,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 38,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 42,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 42,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 48,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 680,
+                        "endColumn": 48,
+                        "endOffset": 724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 51,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 51,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 52,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 52,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 40,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 40,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 51,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 51,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 50,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 50,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 57,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/C:\\Users\\Prakhar\\Desktop\\face-recognition-as-master\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 57,
+                        "endOffset": 69
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 26,
+                    "endOffset": 77
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 34,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 82,
+                    "endColumn": 51,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 51,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 79,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 79,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 42,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 42,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 65,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 65,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 48,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 48,
+                        "endOffset": 662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 53,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 53,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 38,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 38,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 42,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 42,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 48,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 667,
+                        "endColumn": 48,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 51,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 51,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 52,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 52,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 40,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 40,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 51,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 51,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 50,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 50,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 46,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 46,
+                        "endOffset": 58
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 26,
+                    "endOffset": 77
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 74,
+                        "endColumn": 34,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 82,
+                    "endColumn": 51,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 51,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 81,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 81,
+                        "endOffset": 587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 42,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 42,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 65,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 65,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 48,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 631,
+                        "endColumn": 48,
+                        "endOffset": 675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 53,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 729,
+                        "endColumn": 53,
+                        "endOffset": 778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 38,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 38,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 42,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 42,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 48,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 680,
+                        "endColumn": 48,
+                        "endOffset": 724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 51,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 407,
+                        "endColumn": 51,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 52,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 52,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 40,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 40,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 705,
+                    "endColumn": 51,
+                    "endOffset": 752
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 51,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 757,
+                    "endColumn": 50,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 50,
+                        "endOffset": 505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 57,
+                    "endOffset": 861
+                },
+                "from": {
+                    "file": "/Users/rishabh/Downloads/face-recognition-as-master/D:\\StudioProjects\\face-recognition\\facerecognition\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 57,
+                        "endOffset": 69
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rUS/values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 26,
+                    "endOffset": 77
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 34,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 82,
+                    "endColumn": 51,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 51,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 79,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 79,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 42,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 42,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 65,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 65,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 48,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 48,
+                        "endOffset": 662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 53,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 53,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 38,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 38,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 42,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 42,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 48,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 667,
+                        "endColumn": 48,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 51,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 51,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endColumn": 52,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 52,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 40,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 40,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 51,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 51,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 50,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 50,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 46,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 46,
+                        "endOffset": 58
+                    }
+                }
+            }
+        ]
+    }
+]

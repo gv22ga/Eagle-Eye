@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/rishabh/Downloads/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/gaurav/Volume4/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

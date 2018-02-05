@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_jars__:/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/libs/javacv.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/facerecognition/libs/javacv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

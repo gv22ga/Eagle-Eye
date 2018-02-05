@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/.gradle/caches/modules-2/files-2.1/com.microsoft.azure/azure-mobile-android/3.1.0/ae6cfa31ba5a84141676d2d92fa64ca36c52d28/azure-mobile-android-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ae6cfa31ba5a84141676d2d92fa64ca36c52d28">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/azure-mobile-android-3.1.0_405d73b2cb838836f6a5c6873bf3985a6bf5924b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/libs/javacpp.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="08f8b1e3fdcc93a1e9076d6279864d6a46982a85">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/javacpp_838f06e65a972051f2c50679224758df8eecc3d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_f2f4fda10abd21a37bbe217fcb8a97eba9ce0a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_0271e9cdf0e32fcdf1c89c4dec756de239307b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/okhttp-2.5.0_29d6a13e48d380d7a523690614e07538f5890f67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/android.arch.persistence/db/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73b7c0cc2de04ff7eb3979d7f48f2a667fce88ca">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/android.arch.persistence-db-1.0.0_ae607fe58db0f2c455bd9a71d288f9af17f70b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_29e4a578daacc8e5ac21a5c908e30341eb4045c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/android.arch.persistence/db-framework/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e44c59a2b380c1c304413901f8dd34245b64ab40">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/android.arch.persistence-db-framework-1.0.0_d721eb990a0813713534ce71800c2a54fbced7f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_72566b76318c53525415b2706adf4a96a871a949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/common-1.0.0_1ddd93eed4f5ff712484a66d614f66242e4eb372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_92248dce370fbb8e5307c43ce9521451cdfadc3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_c910081bb1073c31cd7f8ac7444187c50475ac2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/libs/javacv.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1824ed7a180ee32aa57f5632a489c10aad8f1804">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/javacv_3a0401dd437fedf3950d9b12d15c8ba1a31f3275.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/android.arch.core/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7acfe82f9818960690816133001218c52e840175">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/android.arch.core-runtime-1.0.0_4ba1132e010ea61a153f69b43db0086b11af0f49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_80abe026afcaafc49f577782655dfc523ca6b75c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_f9fc44973005f1d2d28df73f0711bf014411c80d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.3/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/gson-2.3_794c5c112a09eff6a4f6cf7a17eda19021d44b01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/android.arch.persistence.room/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d24e1c59cbee887714f11121366282a2fe00251">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/android.arch.persistence.room-runtime-1.0.0_9a15b3756a16f9638423632650e2820b51762683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_f3c1c32a8d57f6ed91e6bd1e6eed9dc7d1ff5ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.microsoft.azure.android/azure-storage-android/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="30bb2bd4ff237301e075dd9df49bc5e76562aa88">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.microsoft.azure.android-azure-storage-android-1.0.0_a492942c0688d76e0a95a37f4e7fd5eac4748ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/common-1.0.0_00890eadf482f3f484e5d63c821e821e0061412e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/common/1.0.0/1cbd3ddc566125293b13af5c0a65bc015476e83c/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1cbd3ddc566125293b13af5c0a65bc015476e83c">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/common-1.0.0_079733c7596d1dd4b80c56fa427a0cf47f0625c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/okio-1.6.0_21cb2fb641dfc57ae65a282627000d09a5aa04c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_a5f8790ef41fea47570221c9e3f891b5a3a249c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_0dcfb51dde74f4b75c7b2d8a76fbb1eaf6534a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/exploded-aar/face-recognition-as-master/openCVLibrary2410/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="436a17cad9fc1a9847751baf7a5c4a94a9840400">
+        <dex dex="/Users/rishabh/Downloads/face-recognition-as-master/face-recognition-as-master/facerecognition/build/intermediates/pre-dexed/debug/face-recognition-as-master-openCVLibrary2410-unspecified_4fdbb572c62660626fedebd3789b20bd6cf831ed.jar" />
+    </item>
+
+</items>
